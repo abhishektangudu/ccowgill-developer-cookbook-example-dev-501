@@ -1,0 +1,1 @@
+This is a repository for the Salesforce Developer Cookbook. It is pertenint to the Developer 501 Certification goals of source code management (I.E. Working with Team Development).
